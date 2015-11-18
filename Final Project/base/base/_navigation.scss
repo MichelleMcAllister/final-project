@@ -1,0 +1,45 @@
+
+section {
+  position: absolute;
+  width: 21%;
+}
+
+.logo {
+  display: block;
+  width: 60%;
+  margin-top: 0;
+  margin-right: 0;
+  position: inherit;
+  margin-left: 6%;
+}
+
+.links {
+  margin-left: 20%;
+  margin-top: 160%;
+  width: 20%;
+}
+
+.links ul {
+  width: 20%;
+}
+
+.links li {
+  display: block;
+  line-height: 1.5em;
+  height: 2em;
+}
+
+.links a{
+  text-decoration: none;
+  background-color: red;
+  border-radius: 5px;
+  color: black;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+a:hover {
+  background-color: white;
+  color: #CCC3C3;
+}

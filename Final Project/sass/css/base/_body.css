@@ -1,0 +1,20 @@
+p {
+  font-size: 16px;
+  color: white;
+  line-height: 1.2em;
+  margin-left: 6%;
+  margin-right: 3%;
+  margin-top: 5%;
+}
+
+body {
+  width: 100%;
+  background: #000000;
+}
+
+.content {
+  width: 75%;
+  float: right;
+  padding-right: 8%;
+  clear: left;
+}

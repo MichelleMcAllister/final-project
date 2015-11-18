@@ -1,0 +1,35 @@
+h3 {
+  color: #CCC3C3;
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+  font-size: 2em;
+  padding-top: 9%;
+  padding-bottom: 1%;
+}
+
+#evMain {
+  color: #CCC3C3;
+  width: 80%;
+  margin-left: 14%;
+  border-radius: 3spx;
+}
+
+#evMain p {
+  margin-left: 0%;
+  line-height: .75%;
+  margin-bottom: 4%;
+  margin-top: 0.75em;
+  font-family: 'Questrial', sans-serif;
+}
+
+.evTitle {
+  font-size: 1.4em;
+  margin-left: 7%;
+  font-family: 'Questrial', sans-serif;
+  color: #CCC3C3;
+}
+
+.evDetails {
+  margin-bottom: 2%;
+  margin-left: 7%;
+}

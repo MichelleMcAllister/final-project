@@ -1,0 +1,47 @@
+
+section {
+  position: absolute;
+  width: 15%;
+  margin-left: 2%;
+
+.logo {
+  display: block;
+  width: 100%;
+  margin-top: 0;
+  margin-right: 0;
+  position: inherit;
+  margin-left: 6%;
+}
+
+.links {
+  margin-left: 20%;
+  margin-top: 215%;
+  width: 30%;
+}
+
+.links ul {
+  width: 20%;
+}
+
+.links li {
+  display: block;
+  line-height: 1.5em;
+  height: 2em;
+}
+
+.links a{
+  text-decoration: none;
+  font-family: 'Questrial', sans-serif;
+  background-color: #E9212F;
+  border-radius: 4px;
+  color: black;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+a:hover {
+  background-color: white;
+  color: #CCC3C3;
+}
+}
