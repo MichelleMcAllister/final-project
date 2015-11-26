@@ -11,7 +11,8 @@ h3 {
   color: #CCC3C3;
   width: 80%;
   margin-left: 14%;
-  border-radius: 3spx;
+  border-radius: 3px;
+  position: relative;
 }
 
 #evMain p {

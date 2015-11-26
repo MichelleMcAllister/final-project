@@ -224,6 +224,7 @@ h3 {
   margin-left: 10%;
   margin-right: 0;
   float: left;
+  position: relative;
 }
 
 .bibiInfo h4 {
@@ -245,6 +246,7 @@ form {
   line-height: 1.2em;
   padding: 1%;
   border-radius: 4px;
+  position: relative;
 }
 
 form .button {
