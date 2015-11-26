@@ -16,7 +16,11 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
+#background {
+  width: 100%;
+  z-index: 0;
+  position: absolute;
+}
 p{
   font-size: 16px;
   font-family: 'Josefin Sans', sans-serif;
@@ -26,12 +30,14 @@ p{
     margin-left: 6%;
     margin-right: 3%;
     margin-top: 5%;
+    z-index: 2;
+    position: relative;
 }
 
-body {
-  width: 100%;
-  background: #000000;
-}
+//body {
+//  width: 100%;
+//  background: #000000;
+//}
 
 .content {
   margin-top: 2%;
@@ -39,4 +45,6 @@ body {
   float: right;
   padding-right: 8%;
   clear: left;
+  z-index: 2;
+  position: relative;
 }
