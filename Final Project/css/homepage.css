@@ -10,3 +10,8 @@ p {
   margin-left: 3%;
   margin-right: 15%;
 }
+
+.twitterFeed {
+  position: relative;
+  margin-left: 15%;
+}
